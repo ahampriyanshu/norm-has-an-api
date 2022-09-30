@@ -1,0 +1,57 @@
+{
+  "name": "normmacdonald",
+  "birthName": "Norman Gene Macdonald",
+  "mother": "Ferne Macdonald",
+  "father": "Percy Lloyd Macdonald",
+  "dateOfBirth": "1959-10-17",
+  "placeOfBirth": "Québec City, Québec, Canada",
+  "isAlive": false,
+  "diedOn": "2021-09-14",
+  "nationality": "canadian",
+  "ethnicity": "irish,scotish",
+  "workingSince": 1985,
+  "education": [
+     "Quebec High School, Quebec, Canada",
+     "Gloucester High School, Ontario, Canada"
+  ],
+  "twitter": "https://twitter.com/normmacdonald",
+  "instagram": "https://www.instagram.com/therealnormmacdonald",
+  "wikipedia": "https://en.wikipedia.org/wiki/Norm_Macdonald",
+  "imdb": "https://www.imdb.com/name/nm0005172",
+  "website": "https://www.normmacdonald.tv",
+  "youtube": "https://www.youtube.com/c/normmacdonald/",
+  "specials": [
+     "Ridiculous (2006)",
+     "Me Doing Stand-Up (2011)",
+     "Hitler's Dog, Gossip & Trickery (2017)"
+  ],
+  "movies": [
+     "Billy Madison (1995)",
+     "The People vs. Larry Flynt (1996)",
+     "Dirty Work (1998)",
+     "Dr. Dolittle (1998)",
+     "Deuce Bigalow: Male Gigolo (1999)",
+     "Man on the Moon (1999)",
+     "Screwed (2000)",
+     "The Animal (2001)",
+     "The 7th Dwarf (2014)",
+     "The Ridiculous Six (2015)",
+     "Treasure Hounds (2017)",
+     "Klaus (2019)"
+  ],
+  "videoShows": [
+     "The Dennis Miller Show",
+     "Roseanne (1992-1993)",
+     "Saturday Night Live (1993–1998)",
+     "The Norm Show",
+     "A Minute with Stan Hooper",
+     "Sports Show with Norm Macdonald (2011)",
+     "Norm Macdonald Live (2013)",
+     "Norm Macdonald Has a Show (2018)",
+     "Quarantined (2020)"
+  ],
+  "audioShows": null,
+  "books": [
+     "Based on a True Story : Not a Memoir (2016)"
+  ]
+}

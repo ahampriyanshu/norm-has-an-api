@@ -1,0 +1,43 @@
+{
+    "name": "aakashgupta",
+    "birthName": "Aakash Gupta",
+    "mother": null,
+    "father": null,
+    "dateOfBirth": "1993-01-05",
+    "placeOfBirth": "New Delhi, India",
+    "isAlive": true,
+    "diedOn": null,
+    "nationality": "indian",
+    "ethnicity": "indian",
+    "workingSince": 2017,
+    "education": [
+       "Sumermal Jain Public School, New Delhi, India",
+       "Shaheed Bhagat Singh College, Delhi University, New Delhi, India"
+    ],
+    "twitter": "https://www.instagram.com/TheSkyGupta",
+    "instagram": "https://www.instagram.com/theskygupta",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aakash_Gupta",
+    "imdb": "https://www.imdb.com/name/nm10757218",
+    "website": "https://linktr.ee/theskygupta",
+    "youtube": "https://www.youtube.com/c/AakashGupta",
+    "specials": [
+       "Aakash Gupta Specials",
+       "Train Journeys",
+       "Honeymoon Trips and Relationships",
+       "Clubbing & Cocktails",
+       "Bhai Khush Raha Kar",
+       "Delhi Metro",
+       "Dogs",
+       "Sarojini Nagar"
+    ],
+    "movies": null,
+    "videoShows": [
+       "Comedy premium league",
+       "Comicstaan",
+       "Couple Goals Season 3",
+       "LOL - Hasse To Phasse",
+       "Simple Ken Podcast | EP 24 - Self Doubt"
+    ],
+    "audioShows": null,
+    "books": null
+  }

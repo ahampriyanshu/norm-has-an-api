@@ -3,8 +3,6 @@ const express = require("express"),
   morgan = require("morgan"),
   rateLimit = require("express-rate-limit"),
   router = require("./routers"),
-  fs = require("fs"),
-  path = require("path"),
   errorController = require("./helpers/errorController"),
   app = express();
 
